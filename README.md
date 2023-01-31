@@ -13,4 +13,4 @@ Clean architecture has a domain layer, Application Layer, Infrastructure Layer, 
  
 Clean architecture has a domain layer, Application Layer, Infrastructure Layer, and Presentation Layer. The domain and application layer are always the center of the design and are known as the core of the system.
 
-## - Domain Layer:
+- Domain Layer:
