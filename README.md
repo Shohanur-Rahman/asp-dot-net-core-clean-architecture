@@ -31,9 +31,13 @@ In the case of the API Presentation layer that presents us the object data from 
 
 ## Advantages of Clean Architecture
 -The immediate implementation you can implement this architecture with any programming language.
+
 -The domain and application layer are always the center of the design and are known as the core of the system that why the core of the system is not dependent on external systems.
+
 -This architecture allows you to change the external system without affecting the core of the system.
+
 -In a highly testable environment, you can test your code quickly and easily.
+
 -You can create a highly scalable and quality product.
 
 ## Clean Architecture vs N-Tier Architecture
